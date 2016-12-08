@@ -1,9 +1,9 @@
 {
-  "name": "meow",
+  "name": "CodeCipherThing",
   "version": ".01",
-  "description": "something",
-  "main": "meow",
-  "repository": "https://github.com/dylangernert/codecipherthing.git",
+  "description": "a thing that allows you to code your own message",
+  "main": "start.js",
+  "repository": "https://github.com/dylangernert/codecipherthing",
   "author": "dylangernert",
-  "license": "meow"
+  "license": "MIT"
 }
