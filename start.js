@@ -1,26 +1,31 @@
 //numbers for coding message (you can change these to your likeing)
-var a = 1
-var b = 3
-var c = 6
-var d = 9
-var e = 0
-var f = 2
-var g = 4
-var h = 8
-var i = "b"
-var j = "d"
-var k = "e"
-var l = "f"
-var m = "a"
-var n = "c"
-var o = "p"
-var p = "q"
-var q = "r"
-var r = "w"
-var s = "v"
-var t = "l"
-var u = "m"
-var v = "p"
+var a = 0
+var b = 1
+var c = 2
+var d = 3
+var e = 4
+var f = 5
+var g = 6
+var h = 7
+var i = 8
+var j = 9
+var k = "a"
+var l = "b"
+var m = "c"
+var n = "d"
+var o = "e"
+var p = "f"
+var q = "g"
+var r = "h"
+var s = "i"
+var t = "j"
+var u = "k"
+var v = "l"
+var w = "m"
+var x = "n"
+var y = "o"
+var z = "p"
+
 //message(s)
 
 console.log("test test");
