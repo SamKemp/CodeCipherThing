@@ -1,0 +1,9 @@
+{
+  "name": "meow",
+  "version": ".01",
+  "description": "something",
+  "main": "meow",
+  "repository": "https://github.com/dylangernert/codecipherthing.git",
+  "author": "dylangernert",
+  "license": "meow"
+}
