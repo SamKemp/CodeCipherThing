@@ -28,4 +28,5 @@ var z = "p"
 
 //message(s)
 
-console.log("test test");
+console.log("test test"); //logs "j4ij j4ij"
+
