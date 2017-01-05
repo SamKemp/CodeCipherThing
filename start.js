@@ -28,5 +28,12 @@ var z = "p"
 
 //message(s)
 
-console.log("test test"); //logs "j4ij j4ij"
+console.log(t + e + s + t); //logs "j4ij"
+
+/*
+i tried to do multiple variables in the message, so it may not work. 
+You can make it better if you want
+*/
+
+
 
