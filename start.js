@@ -28,15 +28,18 @@ var z = "p";
 
 //Message(s)
 
-//Message 1
+// test
+// j4ij
+console.log(t + e + s + t);
+
 // hello
 // 74bbe
 console.log(h + e + l + l + o);
-//Message 2
+
 // i love you
 // 8 bel4 cek
 console.log(i + " " + l + o + v + e + " " + y + o + u );
-//Message 3
+
 // shabalabbadingdong
 // i7010b011038d63ed6
 console.log(s + h + a + b + a + l + a + b + b + a + d + i + n + g + d + o + n + g);
