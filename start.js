@@ -1,39 +1,42 @@
-//numbers for coding message (you can change these to your likeing)
-var a = 0
-var b = 1
-var c = 2
-var d = 3
-var e = 4
-var f = 5
-var g = 6
-var h = 7
-var i = 8
-var j = 9
-var k = "a"
-var l = "b"
-var m = "c"
-var n = "d"
-var o = "e"
-var p = "f"
-var q = "g"
-var r = "h"
-var s = "i"
-var t = "j"
-var u = "k"
-var v = "l"
-var w = "m"
-var x = "n"
-var y = "o"
-var z = "p"
+//numbers for coding message (you can change these)
+var a = "0";
+var b = "1";
+var c = "2";
+var d = "3";
+var e = "4";
+var f = "5";
+var g = "6";
+var h = "7";
+var i = "8";
+var j = "9";
+var k = "a";
+var l = "b";
+var m = "c";
+var n = "d";
+var o = "e";
+var p = "f";
+var q = "g";
+var r = "h";
+var s = "i";
+var t = "j";
+var u = "k";
+var v = "l";
+var w = "m";
+var x = "n";
+var y = "o";
+var z = "p";
 
-//message(s)
+//Message(s)
 
-console.log(t + e + s + t); //logs "j4ij"
-
-/*
-i tried to do multiple variables in the message, so it may not work. 
-You can make it better if you want
-*/
-
-
-
+//Message 1
+// hello
+// 74bbe
+console.log(h + e + l + l + o);
+//Message 2
+// i love you
+// 8 bel4 cek
+console.log(i + " " + l + o + v + e + " " + y + o + u );
+//Message 3
+// shabalabbadingdong
+// i7010b011038d63ed6
+console.log(s + h + a + b + a + l + a + b + b + a + d + i + n + g + d + o + n + g);
