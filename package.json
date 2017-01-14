@@ -1,8 +1,8 @@
 {
   "name": "CodeCipherThing",
   "version": "1.0",
-  "description": "a thing that allows you to code your own message",
+  "description": "Allows you to turn normal text into encrypted words ",
   "main": "start.js",
-  "repository": "https://github.com/dylangernert/codecipherthing",
-  "author": "dylangernert"
+  "repository": "https://github.com/untamemadman/CodeCipherThing",
+  "author":"dylangernert", "untamemadman"
 }
