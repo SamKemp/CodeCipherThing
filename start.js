@@ -34,21 +34,3 @@ var MsgLower_y = MsgLower_x.replace(/y/g, "o");
 var MsgLower_z = MsgLower_y.replace(/z/g, "p");
 
 console.log(MsgLower_z);
-
-//=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-// test
-// j4ij
-//console.log(t + e + s + t);
-
-// hello
-// 74bbe
-//console.log(h + e + l + l + o);
-
-// i love you
-// 8 bel4 cek
-//console.log(i + " " + l + o + v + e + " " + y + o + u );
-
-// shabalabbadingdong
-// i7010b011038d63ed6
-//console.log(s + h + a + b + a + l + a + b + b + a + d + i + n + g + d + o + n + g);
