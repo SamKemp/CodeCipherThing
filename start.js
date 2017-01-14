@@ -1,45 +1,54 @@
-//numbers for coding message (you can change these)
-var a = "0";
-var b = "1";
-var c = "2";
-var d = "3";
-var e = "4";
-var f = "5";
-var g = "6";
-var h = "7";
-var i = "8";
-var j = "9";
-var k = "a";
-var l = "b";
-var m = "c";
-var n = "d";
-var o = "e";
-var p = "f";
-var q = "g";
-var r = "h";
-var s = "i";
-var t = "j";
-var u = "k";
-var v = "l";
-var w = "m";
-var x = "n";
-var y = "o";
-var z = "p";
+//Message
+var Msg = "How are you?";
+// 74bbe
 
-//Message(s)
+
+//Message processing
+var MsgLower = Msg.toLowerCase();
+
+var MsgLower_a = MsgLower.replace(/a/g, "0");
+var MsgLower_b = MsgLower_a.replace(/b/g, "1");
+var MsgLower_c = MsgLower_b.replace(/c/g, "2");
+var MsgLower_d = MsgLower_c.replace(/d/g, "3");
+var MsgLower_e = MsgLower_d.replace(/e/g, "4");
+var MsgLower_f = MsgLower_e.replace(/f/g, "5");
+var MsgLower_g = MsgLower_f.replace(/g/g, "6");
+var MsgLower_h = MsgLower_g.replace(/h/g, "7");
+var MsgLower_i = MsgLower_h.replace(/i/g, "8");
+var MsgLower_j = MsgLower_i.replace(/j/g, "9");
+var MsgLower_k = MsgLower_j.replace(/k/g, "a");
+var MsgLower_l = MsgLower_k.replace(/l/g, "b");
+var MsgLower_m = MsgLower_l.replace(/m/g, "c");
+var MsgLower_n = MsgLower_m.replace(/n/g, "d");
+var MsgLower_o = MsgLower_n.replace(/o/g, "e");
+var MsgLower_p = MsgLower_o.replace(/p/g, "f");
+var MsgLower_q = MsgLower_p.replace(/q/g, "g");
+var MsgLower_r = MsgLower_q.replace(/r/g, "h");
+var MsgLower_s = MsgLower_r.replace(/s/g, "i");
+var MsgLower_t = MsgLower_s.replace(/t/g, "j");
+var MsgLower_u = MsgLower_t.replace(/u/g, "k");
+var MsgLower_v = MsgLower_u.replace(/v/g, "l");
+var MsgLower_w = MsgLower_v.replace(/w/g, "m");
+var MsgLower_x = MsgLower_w.replace(/x/g, "n");
+var MsgLower_y = MsgLower_x.replace(/y/g, "o");
+var MsgLower_z = MsgLower_y.replace(/z/g, "p");
+
+console.log(MsgLower_z);
+
+//=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 // test
 // j4ij
-console.log(t + e + s + t);
+//console.log(t + e + s + t);
 
 // hello
 // 74bbe
-console.log(h + e + l + l + o);
+//console.log(h + e + l + l + o);
 
 // i love you
 // 8 bel4 cek
-console.log(i + " " + l + o + v + e + " " + y + o + u );
+//console.log(i + " " + l + o + v + e + " " + y + o + u );
 
 // shabalabbadingdong
 // i7010b011038d63ed6
-console.log(s + h + a + b + a + l + a + b + b + a + d + i + n + g + d + o + n + g);
+//console.log(s + h + a + b + a + l + a + b + b + a + d + i + n + g + d + o + n + g);
